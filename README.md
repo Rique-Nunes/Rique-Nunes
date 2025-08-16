@@ -1,7 +1,7 @@
 #  **Hey, I'm Henrique!** 👋
 
 ###  About Me:
-🔭 Eu atualmente estou trabalhando com Infraestrutura em Nuvem<br>🌱 Atualmente estou tentando me aperfeiçoar buscando certificações em networking e architect cloud <br>💬 Estou aberto a aprendizados e compartilhamento de conhecimento
+🔭 Eu atualmente estou trabalhando com Infraestrutura em Nuvem<br>🌱 Hoje estou tentando me aperfeiçoar buscando certificações em networking e architect cloud <br>💬 Estou aberto a aprendizados e compartilhamento de conhecimento
 
 ---
 
